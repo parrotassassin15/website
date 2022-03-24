@@ -3,7 +3,7 @@
 <h2> Wanna Help This Project Move Along Faster? </h2>
 <br>
 Here is what you can do:
-
+<br>
  * Code the feature you want added in and submit a PR 
  * Find Bugs in our code and Submit your fixes to us
  * Redo/Remake CSS/HTML/Javascript Files
