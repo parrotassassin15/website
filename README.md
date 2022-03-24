@@ -10,9 +10,9 @@ Here is what you can do:
  
  And anything else you want to offer! 
  <br />
- 
+ ---
  ### Social Media
-
+---
 [<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
@@ -22,6 +22,7 @@ Here is what you can do:
 
 <br />
 <br />
+
 #### Updates
  
  We do not have everything uploaded as of right now the only things uploaded are the things we are behind on
