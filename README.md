@@ -1,7 +1,7 @@
 # Parrot-CTFs Project 
 
 ## Wanna Help This Project Move Along Faster? 
-<br />
+
 Here is what you can do:
 
  * Code the feature you want added in and submit a PR 
