@@ -14,6 +14,6 @@ Here is what you can do:
  
  # Social Media
  
- Our website: [Website](https://parrot-ctfs.com)
- Follow our Instagram: [Ingragram](https://instagram.com/parrot_ctfs)
- Join our Discord: [Discord Invite](https://discord.parrot-ctfs.com)
+ Our website: [Website](https://parrot-ctfs.com) <br>
+ Follow our Instagram: [Ingragram](https://instagram.com/parrot_ctfs) <br>
+ Join our Discord: [Discord Invite](https://discord.parrot-ctfs.com) <br>
