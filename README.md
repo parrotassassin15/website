@@ -1,18 +1,17 @@
 # Parrot-CTFs Project 
 
 ## Wanna Help This Project Move Along Faster? 
-<br />
-Here is what you can do:
 
+Here is what you can do:
+<br />
  * Code the feature you want added in and submit a PR 
  * Find Bugs in our code and Submit your fixes to us
  * Redo/Remake CSS/HTML/Javascript Files
  
- <br />
 ---
 
  ### Social Media
----
+
 [<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
