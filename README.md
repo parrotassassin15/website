@@ -1,6 +1,6 @@
 # Parrot-CTFs Project 
 
-<h2> Wanna Help This Project Move Along Faster? <h2>
+<h2> Wanna Help This Project Move Along Faster? </h2>
 <br>
 Here is what you can do:
 
