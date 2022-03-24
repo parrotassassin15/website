@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+      <link rel="stylesheet" href="main.css">
+      <link rel="shortcut icon" href="https://parrot-ctfs.com/favicon.ico" />
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Dashboard | Parrot CTF's</title>
+   </head>
+   <body>
+      <div class="wrapper">
+         <div class="section">
+            <div class="menu">
+               <div class="dropdown" style="float:right;">
+                  <button class="dropbtn"><i style='color: white;font-size: 150%;'; class="fa fa-bars"></i></button>
+                  <div class="dropdown-content">
+                     <a href="/">Home</a>
+                     <a href="/dashboard/">Dashboard</a>
+                     <a href="/ad/">AD Labs</a>
+                     <a href="#">Profile</a>
+                     <a href="#">Sign Out</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="sidebar">
+            <div class="profile">
+               <img src="sd0Gfgc.png" alt="profile_picture"><br>
+               <h3>USERNAME</h3><br>
+               <p>VPN STATUS GOES HERE</p>
+               <br>
+               <hr>
+            </div>
+            <ul>
+               <li>
+                  <a href="https://parrot-ctfs.com/dashboard">
+                  <span class="icon"><i class="fas fa-cloud"></i></span>
+                  <span class="item"> Hack Box</span>
+                  </a>
+               </li>
+               <li>
+                  <a href="https://parrot-ctfs.com/api/getvpn.php?plan=free">
+                  <span class="icon"><i class="fas fa-download"></i></span>
+                  <span class="item">Download FREE VPN</span>
+                  </a>
+               </li>
+               <li>
+                  <a href="https://parrot-ctfs.com/api/getvpn.php?plan=pro">
+                  <span class="icon"><i class="fas fa-download"></i></span>
+                  <span class="item">Download PRO VPN</span>
+                  </a>
+               </li>
+               <li>
+                  <a href="https://parrot-ctfs.com/submitabox">
+                  <span class="icon"><i class="fas fa-upload"></i></span>
+                  <span class="item">Submit a Box</span>
+                  </a>
+               </li>
+               <li>
+                  <a class="drop-btn" onclick="button_func()">
+                  <span class="icon"><i class="fas fa-flask"></i></span>
+                  <span class="item">Labs / Boxes</span>
+                  <span class="item_2"><i class="fa fa-angle-down"></i></span>    
+               </a>
+                  <div class="dropdown-content-2" id="Dropdown-2">
+                     <br>
+                     <br>
+                     <a href="boxes/brew-brothers.html">
+                     <span class="icon"><i class="fas fa-lock-open"></i></span>
+                     <span class="item">Brew Brothers</span>
+                     </a>
+                     <a href="boxes/tiki2.html">
+                     <span class="icon"><i class="fas fa-lock"></i></span>
+                     <span class="item">Tiki: 2</span>
+                     </a>
+                     <a href="boxes/blue_z.html">
+                     <span class="icon"><i class="fas fa-lock"></i></span>
+                     <span class="item">Blue Zombie</span>
+                     </a>
+                     </a>
+                  </div>
+               </li>
+            
+         </div>
+         </li>
+         </ul>
+      </div>
+      </div>
+      </div>
+      </div>
+      <!--
+         Information Boxes
+         
+         -->
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+     <div class="boxes-total">
+      <div class="row margin-bottom-10">
+         <div class="col-sm-6">
+            <div class="servive-block rounded servive-block-aqua">
+               <h2 class="heading-md">Total Boxes  <i class="icon-2x color-light fa fa-box"></i></h2>
+               <br>
+               <p class="ph-md">14</p>
+            </div>
+         </div>
+      </div>
+      <div class="col-sm-6">
+         <div class="servive-block rounded servive-block-aqua-2">
+            <h2 style='margin-top: 1px;'>Completed Boxes   <i class="icon-2x color-light fa fa-check"></i></h2>
+            <br>
+            <p class="ph-md">0</p>
+         </div>
+      </div>
+      <div class="col-sm-6">
+         <div class="servive-block rounded servive-block-aqua-3">
+            <h2 class="heading-md">Completion Rate  <i class="icon-2x color-light fa fa-percent"></i></h2>
+            <br>
+            <p class="ph-md">0%</p>
+         </div>
+      </div>
+      <div class="col-sm-6">
+         <div class="servive-block rounded servive-block-aqua-4">
+            <h2 class="heading-md">CTF Streak  <i class="icon-2x color-light fa fa-fire"></i></h2>
+            <br>
+            <p class="ph-md">1</p>
+         </div>
+      </div>
+      <div class="col-sm-6">
+         <div class="servive-block rounded servive-block-aqua-6">
+            <h2 class="heading-md">CTF Leader Board ( TOP 5 ) <i class="icon-2x color-light fa fa-user"></i></h2>
+            <br>
+            <ul class="a">
+               <li class='leader-board'>parrot - USA - 130 boxes - 12 points - free user</li><br>
+               <li class='leader-board'>parrot - USA - 130 boxes - 12 points - pro user </li><br>
+               <li class='leader-board'>parrot - USA - 130 boxes - 12 points - free user </li><br>
+               <li class='leader-board'>parrot - USA - 130 boxes - 12 points - free user </li><br>
+               <li class='leader-board'>parrot - USA - 130 boxes - 12 points - pro user </li><br>
+            </ul>
+            <p class="ph-md">
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+      <script>
+         function button_func() {
+           document.getElementById("Dropdown-2").classList.toggle("show");
+         }
+         
+         window.onclick = function(e) {
+           if (!e.target.matches('.drop-btn')) {
+           var myDropdown = document.getElementById("Dropdown-2");
+             if (myDropdown.classList.contains('show')) {
+               myDropdown.classList.remove('show');
+
+             }
+           }
+         }
+      </script>
+</html>
