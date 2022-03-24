@@ -16,7 +16,7 @@ Here is what you can do:
  
  We do not have everything uploaded as of right now the only things uploaded are the things we are behind on
  
- # Social Media
+ <h3> Social Media: </h3>
  
  Our website: [Website](https://parrot-ctfs.com) <br>
  Follow our Instagram: [Instagram](https://instagram.com/parrot_ctfs) <br>
