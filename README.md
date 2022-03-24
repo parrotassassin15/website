@@ -1,7 +1,7 @@
 # Parrot-CTFs Project 
 
-<h2> Wanna Help This Project Move Along Faster? </h2>
-<br>
+## Wanna Help This Project Move Along Faster? 
+<br />
 Here is what you can do:
 
  * Code the feature you want added in and submit a PR 
@@ -9,16 +9,24 @@ Here is what you can do:
  * Redo/Remake CSS/HTML/Javascript Files
  
  And anything else you want to offer! 
- <br>
+ <br />
  
- <h3> Social Media: </h3>
- 
- Our website: [Website](https://parrot-ctfs.com) <br>
- Follow our Instagram: [Instagram](https://instagram.com/parrot_ctfs) <br>
- Join our Discord: [Discord Invite](https://discord.parrot-ctfs.com) <br>
+ ### Social Media: 
 
+[<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />][Tiktok]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkdin]
 
  
- <h4> Updates: </h4>
+#### Updates: 
  
  We do not have everything uploaded as of right now the only things uploaded are the things we are behind on
+
+[Website]: https://parrot-ctfs.com 
+[Linkdin]: https://www.linkedin.com/company/parrot-pentest-llc
+[Tiktok]: https://tiktok.com/@parrot_ctfs
+[Instagram]: https://instagram.com/parrot_ctfs
+[Discord]: https://discord.parrot-ctfs.com
+
