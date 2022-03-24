@@ -9,8 +9,12 @@ Here is what you can do:
  * Redo/Remake CSS/HTML/Javascript Files
  
  And anything else you want to offer! 
- 
  <br>
+ 
+ 
+ # Updates: 
+ 
+ We do not have everything uploaded as of right now the only things uploaded are the things we are behind on
  
  # Social Media
  
