@@ -1,6 +1,6 @@
 # Parrot-CTFs Project 
 
-Wanna Help This Project Move Along Faster?
+<h2> Wanna Help This Project Move Along Faster? <h2>
 <br>
 Here is what you can do:
 
@@ -12,7 +12,7 @@ Here is what you can do:
  <br>
  
  
- # Updates: 
+ <h3> Updates: </h3>
  
  We do not have everything uploaded as of right now the only things uploaded are the things we are behind on
  
