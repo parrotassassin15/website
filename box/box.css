@@ -19,7 +19,7 @@ body {
     width: 500px;
     height: 630px;
     position: relative;
-    display: flex;
+    
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
@@ -177,4 +177,12 @@ p {
 
 .top_navbar h2 {
     left: 100px;
+}
+
+.container {
+    position: static;
+    width: 60%;
+    padding-left: 15px;
+    padding-right: 15px;
+
 }

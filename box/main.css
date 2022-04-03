@@ -82,11 +82,6 @@ body {
 	display: block;
 }
 
-.wrapper .section {
-	width: calc(100% - 225px);
-	margin-left: 225px;
-	transition: all 0.5s ease;
-}
 
 
 .logo {
@@ -107,10 +102,6 @@ body.active .wrapper .sidebar {
 	left: -225px;
 }
 
-body.active .wrapper .section {
-	margin-left: 0;
-	width: 100%;
-}
 
 p {
 	color: white;
