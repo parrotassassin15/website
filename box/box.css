@@ -15,9 +15,9 @@ body {
 }
 
 .card {
-    left: -360px;
+    left: -340px;
     width: 500px;
-    height: 595px;
+    height: 630px;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -68,7 +68,7 @@ body {
 
 .card_96 {
     top: -0px;
-    left: -210px;
+    left: -190px;
     width: 1200px;
     height: 430px;
     position: relative;
