@@ -132,6 +132,7 @@
             <p class="ph-md">1</p>
          </div>
       </div>
+      <!-- ctf leader board -->
       <div class="col-sm-6">
          <div class="servive-block rounded servive-block-aqua-6">
             <h2 class="heading-md">CTF Leaderboard (TOP 5) <i class="icon-2x color-light fa fa-user"></i></h2>
