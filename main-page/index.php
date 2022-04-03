@@ -6,8 +6,8 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="keywords" content="parrot ctfs, parrot pentest, parrot labs, parrot, oscp, oscp training lab, mitre, owasp, tryhackme, hackthebox, picoctf, capture the flag, ctf, hacking, coding, hacker, ethical hacking, sysadmin, soc analyst, developer, red team, blue team, purple team, infosec, new ctf platform, ctf writeups, crtp, ad, active directory, com, hack, pentest+, crtp, lab env, login,parrot ctf, hack the box, hack">
       <meta name="description" content="Parrot CTFs - A CTF platform for all fields of IT - OWASP, CRTP & OSCP Based Training Labs">
-      <link rel="stylesheet" href="/css/style-index.css" >
-      <link rel="stylesheet" href="/ad-dashboard.css">
+      <link rel="stylesheet" href="style-index.css" >
+      <link rel="stylesheet" href="ad-dashboard.css">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
       <link rel="shortcut icon" href="https://parrot-ctfs.com/favicon.ico" />
       <title>Parrot CTFs | Home</title>
@@ -28,7 +28,7 @@
          </div>
       </div>
       <div class="logo_img">
-         <img class="logo_img" src="content/parrotpentest-logo.png" alt="logo" />
+         <img class="logo_img" src="https://parrot-ctfs.com/content/parrotpentest-logo.png" alt="logo" />
       </div>
       <!-- start delete later  --> 
       <center>
