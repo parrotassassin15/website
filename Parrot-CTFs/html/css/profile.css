@@ -1,0 +1,546 @@
+
+/* INFORMATION BOXES USER IMAGE ETC */
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.main-body {
+    padding: 15px;
+}
+.card {
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+    left: 300px;
+}
+
+.card {
+    left: 100px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #1a1a1a;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    color: white;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 2rem;
+}
+
+.gutters-sm {
+    margin-right: -8px;
+    margin-left: -8px;
+}
+
+.gutters-sm>.col, .gutters-sm>[class*=col-] {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+.mb-3, .my-3 {
+    margin-bottom: 1rem!important;
+}
+
+.bg-gray-300 {
+    background-color: #e2e8f0;
+}
+.h-100 {
+    height: 100%!important;
+}
+.shadow-none {
+    box-shadow: none!important;
+}
+
+.progress mb-3 {
+    height: 5px
+}
+
+.btn_dec{
+    background-color: red;
+}
+
+.card_2 {
+    top: -10px;
+    left: 90px;
+    width: 400px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #1a1a1a;
+    color: white;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+/* Wrapper for the top right menu */
+
+
+.dropbtn {
+    background-color: white;
+    color: white;
+    font-size: 35px;
+    border: none;
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: black;
+}
+
+.top_navbar h2 {
+    left: 100px;
+}
+
+.logo_top_nav {
+    color: white;
+}
+
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-top: -5%;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: black;
+  }
+
+.annoucment {
+  text-align: center;
+
+}
+div.vertical-line {
+    width: 2px; /* Line width */
+    background-color: rgb(255, 255, 255); /* Line color */
+    height: 100%; /* Override in-line if you want specific height. */
+    float: center; /* Causes the line to float to left of content. 
+      You can instead use position:absolute or display:inline-block
+      if this fits better with your design */
+}
+
+
+
+div.vl {
+    border: 1px solid #f1f1f1;
+    height: 800px;
+    width: 1px;
+    margin-top: -50px;
+    background-color: white;
+}
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+a {
+    list-style: none;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color:  black;
+    color: #fff;
+}
+
+.logo-photo {
+    width: 400;
+    height: 500;
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin-top: .5%;
+}
+
+/*NAVBAR TOP LEFT TO TOP RIGHT*/
+
+/* NAVBAR MENU */
+.menu {
+    display: flex;
+    font-size: 18px;
+}
+
+.menu a:hover {
+    text-decoration: underline  #eaab1c;
+    border-radius: 5px;
+    transition: 0.5s ease;
+}
+
+.menu a {
+    padding: 5px 14px;
+}
+
+.header2_users, h2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+/*
+
+.menu {
+    display: flex;
+    gap: lem;
+    justify-content: right;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+.menu a:not(:last-child) {
+    margin-right: 20px;
+  }
+  
+.menu a {
+    display: block;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 7px 15px;
+  }
+  
+.target {
+    position: absolute;
+    border-bottom: 4px solid transparent;
+    z-index: -1;
+    transform: translateX(-60px);
+  }
+  
+.menu a, .target {
+    transition: all .35s ease-in-out;
+  }
+  */
+
+
+/*etc*/
+
+site-title,a{
+    color: white;
+    text-align: left;
+}
+
+h3 {
+    color: white;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+}
+
+menu {
+    background-color: white;
+
+}
+
+body {
+    font-size: 18px;
+    font-family: "Vibur", sans-serif;
+    background-color:  black;
+}
+
+.color {
+    background-color: red;
+}
+
+.header{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 4.2rem;
+    font-size: 3.8rem;
+    border-bottom: 10px solid black;
+}
+
+
+.ACK_MAIN, a{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.bottom_under_img_header{
+    color: white;
+    text-align: center;
+    width: 20;
+}
+
+p.bottom {
+    color: white;
+}
+
+
+.main2{
+    color: white;
+    text-align: center;
+    width: 50;
+    text-decoration: underline white;
+    font-size: 40px;
+}
+
+.bottom2 {
+    color: white;
+}
+
+
+
+.rules {
+    color: white;
+    text-align: center;
+
+}
+
+.header1 {
+    text-align: center;
+    justify-content: center;
+    color: red;
+    font-size: 30px;
+    text-decoration: underline purple;
+}
+
+.header1p {
+    font-style: italic;
+    font-size: 20px;
+    color: red;
+}
+
+.headerpoints {
+    text-overflow: hidden;
+    color: royalblue;
+
+}
+
+.infosc {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    text-decoration: none;
+}
+
+.header1_main2 {
+    color: yellow; text-decoration: underline red;
+}
+
+.box1 {
+    border: 3px solid white; 
+    padding: 10%;
+    width: 50%;
+    margin: 0 32%;  
+}
+
+.box_p {
+    color: white;
+}
+
+.image_main_bottom {
+    max-width: auto;
+    height: auto;
+}
+
+.box {
+    background-color:white;
+    width: 450px;
+    border: 15px solid white;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 50%;
+    border-radius: 10px;
+  }
+  li {
+      color: black;
+  }
+
+.box_ACK {
+    border: 3px solid white; 
+    padding: 10%;
+    margin: 0 32%;
+}
+
+/* parrot added this for bug-tos.php */
+
+.bug_title {
+    text-align: center;
+    margin-top: 10px;
+}
+
+h3 {
+    text-align: left;
+}
+
+.bug_header{
+    color: white;
+    text-align: center;
+    width: 50;
+    text-decoration: underline white;
+    font-size: 20px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  th {
+    color: white;
+  }
+  .sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    border-right: 1px solid white;
+  }
+  
+  .sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidebar a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  .openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+  }
+  
+  .openbtn:hover {
+    background-color: #444;
+  }
+  
+  #main {
+    transition: margin-left .5s;
+    padding: 16px;
+  }
+  
+
+
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }

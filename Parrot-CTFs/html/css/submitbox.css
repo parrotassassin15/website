@@ -1,0 +1,16 @@
+body {
+      background: url("/img/box-bg.jpg");
+    }
+    input[type=text] {
+      width: 40%;padding: 12px 20px;margin: 8px 0;box-sizing: border-box;border: 2px solid #ccc;border-radius: 4px;background-color: #f8f8f8;
+    } textarea {
+      width: 40%;padding: 12px 20px;margin: 8px 0;box-sizing: border-box;border: 2px solid #ccc;border-radius: 4px;background-color: #f8f8f8;
+    } input[type=submit] {
+      width: 15%;padding: 12px 20px;margin: 8px 0;box-sizing: border-box;
+    } div {
+      margin-top: 1.4%; border:20px solid #111111;background-color: #111111;color: white;width: 60%;border-radius: 10%;
+    } h1 {
+      font-family: "Lucida Console", "Courier New", monospace;
+    } p{
+      font-family: "Lucida Console", "Courier New";
+    }
