@@ -1,0 +1,11 @@
+#
+# STOP LOOKING AT OUR ROBOTS.TXT FILE AND START HACKING OUR CTFs :( 
+#
+
+
+# ASK YOURSELF IS THIS REAL? 
+User-Agent: * 
+Disallow: /api/
+Disallow: /passwords.txt 
+Disallow: /etc/passwd 
+Disallow: /admin
