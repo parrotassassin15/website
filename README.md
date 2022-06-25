@@ -23,8 +23,8 @@ Here is what you can do:
 <br />
 
 #### Updates
- 
- We do not have everything uploaded as of right now the only things uploaded are the things we are behind on
+
+ I have uploaded everything needed to help develop on the platform the main thing that is not finished is the dashboard 
 
 [Website]: https://parrot-ctfs.com 
 [Linkdin]: https://www.linkedin.com/company/parrot-pentest-llc
