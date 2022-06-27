@@ -27,7 +27,7 @@ if ($result->num_rows > 0) {
 }
 
 $stripe = new \Stripe\StripeClient(
-    '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'
+    '<api key>'
   );
 if($paid == 'true'){
   $cancel = $stripe->customers->delete(

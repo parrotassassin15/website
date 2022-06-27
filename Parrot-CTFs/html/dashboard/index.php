@@ -54,7 +54,7 @@ if(isset($_POST['submitBtnForTicket'])){
   $subject = $_POST['subject'];
   $inquiry = $_POST['inquiry'];
 
-  $mgClient = Mailgun::create('519a7324ec2732bc19dc062f798d75e6-38029a9d-8c322202', 'https://api.mailgun.net/');
+  $mgClient = Mailgun::create('<api key>', 'https://api.mailgun.net/');
   $domain = "parrot-ctfs.com";
   $params = array(
     'from'    => "Ticket <ticket@parrot-ctfs.com>",
